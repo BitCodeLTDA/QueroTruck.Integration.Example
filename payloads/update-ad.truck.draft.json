@@ -1,0 +1,24 @@
+{
+  "categoryId": "SUBSTITUIR-COM-GUID-DA-CATEGORIA",
+  "countryCode": "BR",
+  "isDraft": true,
+  "title": "Scania R450 2021 - Atualizado",
+  "shortDescription": "Cavalo mecânico 6x2 revisado",
+  "fullDescription": "Atualização via integração JS.",
+  "priceMode": "Fixed",
+  "price": 645000,
+  "availabilityMode": "Immediate",
+  "deliveryAvailable": true,
+  "photoAttachmentIds": [],
+  "additionalInfos": [],
+  "addresses": [],
+  "externalId": "ERP-AD-00042",
+  "vehicle": {
+    "condition": "Used",
+    "kilometers": 181450,
+    "brandId": "SUBSTITUIR-COM-GUID-DA-MARCA",
+    "modelId": "SUBSTITUIR-COM-GUID-DO-MODELO",
+    "modelVersionId": "SUBSTITUIR-COM-GUID-DA-VERSAO",
+    "modelYearId": "SUBSTITUIR-COM-GUID-DO-ANO"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "companyName": "ACME Integrações LTDA",
+  "contactName": "Maria Silva",
+  "contactEmail": "maria@acme.com",
+  "contactPhone": "+55 11 99999-9999",
+  "partnerType": "erp",
+  "businessIdentification": "00.000.000/0001-00",
+  "partnerAddress": "São Paulo/SP",
+  "partnerSource": "api",
+  "message": "Integração ERP -> anúncios e mídia.",
+  "requestedScopes": [
+    "openid",
+    "profile",
+    "email",
+    "web.client.integration"
+  ],
+  "allowedOrigins": [
+    "https://integracao.acme.com.br"
+  ],
+  "sourceChannel": "partner.api",
+  "payload": {
+    "project": "ERP QueroTruck",
+    "estimatedDailyUpdates": 2000
+  }
+}

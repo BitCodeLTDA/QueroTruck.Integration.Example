@@ -1,0 +1,34 @@
+{
+  "name": "qt-partner-integration-js",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Exemplo simples de integração ponta-a-ponta com QueroTruck API (OIDC + integração + CRUD de anúncios)",
+  "scripts": {
+    "help": "node src/cli.js help",
+    "discovery": "node src/cli.js discovery",
+    "auth:pkce": "node src/cli.js auth:pkce --save",
+    "auth:authorize-url": "node src/cli.js auth:authorize-url --save",
+    "auth:exchange": "node src/cli.js auth:exchange",
+    "auth:refresh": "node src/cli.js auth:refresh",
+    "auth:dev-login": "node src/cli.js auth:dev-login --save",
+    "integration:create": "node src/cli.js integration:create",
+    "integration:status": "node src/cli.js integration:status",
+    "catalog:ad-kinds": "node src/cli.js catalog:ad-kinds",
+    "catalog:categories": "node src/cli.js catalog:categories",
+    "catalog:brands": "node src/cli.js catalog:brands",
+    "catalog:models": "node src/cli.js catalog:models",
+    "catalog:versions": "node src/cli.js catalog:versions",
+    "catalog:years": "node src/cli.js catalog:years",
+    "ads:create": "node src/cli.js ads:create",
+    "ads:get": "node src/cli.js ads:get",
+    "ads:update": "node src/cli.js ads:update",
+    "ads:delete": "node src/cli.js ads:delete",
+    "ads:my": "node src/cli.js ads:my",
+    "token:show": "node src/cli.js token:show",
+    "token:set": "node src/cli.js token:set"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

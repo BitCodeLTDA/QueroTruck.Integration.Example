@@ -1,0 +1,24 @@
+{
+  "categoryId": "00449548-26e0-4784-9079-9ac2609bebd8",
+  "countryCode": "BR",
+  "isDraft": true,
+  "title": "Scania R450 2021",
+  "shortDescription": "Cavalo mecânico 6x2",
+  "fullDescription": "Anúncio criado via integração JS.",
+  "priceMode": "Fixed",
+  "price": 650000,
+  "availabilityMode": "Immediate",
+  "deliveryAvailable": true,
+  "photoAttachmentIds": [],
+  "additionalInfos": [],
+  "addresses": [],
+  "externalId": "ERP-AD-00042",
+  "vehicle": {
+    "condition": "Used",
+    "kilometers": 182000,
+    "brandId": "9ef88de3-ca9b-41bc-b7df-1e3f4179ec6d",
+    "modelId": "8b373f7c-f7e4-4b6c-b801-571612f39f81",
+    "modelVersionId": "12adc098-d807-4fae-a7b1-c21948ff86bb",
+    "modelYearId": "6560fc4f-49e9-4654-8688-f06201bb025e"
+  }
+}
