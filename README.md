@@ -1,4 +1,4 @@
-# QueroTruck Partner Integration JS (Exemplo Simples)
+# QueroTruck Partner Integration JS
 
 Projeto JavaScript enxuto para integração ponta-a-ponta com a API da QueroTruck:
 
